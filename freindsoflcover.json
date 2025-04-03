@@ -1,0 +1,16 @@
+{
+	"id": "Cloverskins",
+	"name": "Clover-fied: Friends of Clover expansion",
+	"display_name": "Clover-fied: Friends of Clover",
+	"author": ["Clover"],
+	"description": "An expansion to my other mod, Balatro:Clover-fied, that adds cosmetic deck skins",
+	"prefix": "clov",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "FF230A",
+	"badge_text_colour": "FFFFFF",
+	"version": "0.0.3",
+	"dependencies": [
+        "Steamodded (>=1.*)"
+    ]
+}
