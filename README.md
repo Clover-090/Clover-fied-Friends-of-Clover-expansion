@@ -1,1 +1,1 @@
-An expansion for the Balatro: Clover-fied mo that adds deckskins.
+An expansion for the Balatro: Clover-fied mod that adds deckskins.
